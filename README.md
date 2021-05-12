@@ -3,4 +3,4 @@
  
  First download netlogo https://ccl.northwestern.edu/netlogo/6.1.1/ install it
  
- then downlad this project and open the file by netlogo
+ then downlad this project and open the file "ImageSegmentation.nlogo" by netlogo
